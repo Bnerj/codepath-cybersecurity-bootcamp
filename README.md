@@ -45,7 +45,7 @@ A hands-on network forensics investigation involving suspicious email activity w
 - Correlated DHCP records to identify the associated host device.
 - Examined security logs to determine the user logged into the device during the incident.
 
-[View Full Lab Report](./Unit-01/Labs/insider-threat-investigation/README.md)
+[View Unit 1 Repository](https://github.com/Bnerj/Unit-1)
 
 ## Skills & Technologies
 
