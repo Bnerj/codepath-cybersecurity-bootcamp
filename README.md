@@ -16,7 +16,7 @@ The bootcamp provides hands-on experience with cybersecurity concepts, tools, an
 
 | Unit | Focus | Documentation |
 |---|---|---|
-| Unit 1 | Cybersecurity Foundations & Labs |[View Unit 1 Repository](https://github.com/Bnerj/Unit-1) |
+| Unit 1 | Insider Threat Detection & Network Traffic Analysis |[View Unit 1 Repository](https://github.com/Bnerj/Unit-1) |
 | Unit 2 | Upcoming Documentation | [View Unit 2](./Unit-02/README.md) |
 | Unit 3 | Upcoming Documentation | [View Unit 3](./Unit-03/README.md) |
 | Unit 4 | Upcoming Documentation | [View Unit 4](./Unit-04/README.md) |
